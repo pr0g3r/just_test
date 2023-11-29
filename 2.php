@@ -7,5 +7,6 @@ error_reporting(E_ALL);
 // ini_set("memory_limit", "-1");
 
 echo "testing";
+echo "i hope everything now working";
 
 ?>
